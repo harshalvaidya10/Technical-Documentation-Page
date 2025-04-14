@@ -1,1 +1,1 @@
-link - hvvaidyatechnicaldocumentationpage.netlify.app
+link - https://hvvaidyatechnicaldocumentationpage.netlify.app/
